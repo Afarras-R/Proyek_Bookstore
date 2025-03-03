@@ -5,11 +5,11 @@
     <!-- Logo -->
     <div class="app-brand justify-content-center">
       <a href="index.html" class="app-brand-link gap-2">
-        <span class="app-brand-text demo text-uppercase fw-bolder">Bookstore</span>
+        <span class="app-brand-text demo text-uppercase fw-bolder">bisssss</span>
       </a>
     </div>
     <!-- /Logo -->
-    <h4 class="mb-2">Selamat Datang di Bookstore!</h4>
+    <h4 class="mb-2">plis wook bisa</h4>
     <form class="mb-3" action="login_auth.php" method="POST">
       <div class="mb-3">
         <label class="form-label">Username</label>
